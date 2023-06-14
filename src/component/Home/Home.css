@@ -1,0 +1,21 @@
+.Home {
+    display: flex;
+    margin: 30px;
+    
+}
+
+.Home_container {
+    display: flex;
+    column-gap: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.Home_container-orders {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    background-color: bisque;
+    padding: 25px;
+    border-radius: 50px;
+}

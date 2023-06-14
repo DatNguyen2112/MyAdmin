@@ -1,0 +1,17 @@
+.Sidebar {
+    width: 20%;
+}
+
+.Admin-title {
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+
+.Admin-option {
+    line-height: 50px;
+}
+
+.Admin-selects {
+    cursor: pointer;
+    font-size: 15px;
+}

@@ -1,0 +1,10 @@
+.Users {
+    display: flex;
+    margin: 30px;
+    width: 70%;
+}
+
+.Users-table {
+    width: 80%;
+    margin-top: 100px
+}
