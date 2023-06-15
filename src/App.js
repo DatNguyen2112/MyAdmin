@@ -6,6 +6,7 @@ import Products from './component/Products/Products';
 import Costumer from './component/CostumerInfo/Costumer';
 import Analytics from './component/Analytics/Analytics';
 import Orders from './component/Orders/Orders';
+import AddProduct from './component/addProduct/addProduct';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route exact path='/CustomerInfo' component={() => <Costumer />}/>
           <Route exact path='/Orders' component={() => <Orders />}/>
           <Route exact path='/AnalyticsChart' component={() => <Analytics />}/>
+          <Route exact path='/AddProduct' component={() => <AddProduct />}/>
         </Switch>
 
         {/* <Footer /> */}

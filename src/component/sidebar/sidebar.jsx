@@ -11,6 +11,7 @@ function Sidebar() {
         <Link to="/Orders"><div className="Admin-selects">Orders</div></Link>
         <Link to="/CustomerInfo"><div className="Admin-selects">CustumerInfo</div></Link>
         <Link to="/AnalyticsChart"><div className="Admin-selects">AnalyticsChart</div></Link>
+        <Link to="/AddProduct"><div className="Admin-selects">AddProducts</div></Link>
       </div>
     </div>
   );
