@@ -69,8 +69,8 @@ function Orders() {
     <div className="Orders">
       <Sidebar />
       <div className="Users-table">
-        <div style={{ textAlign: "center", width: 1500 }}>ORDERS</div>
-        <div style={{ height: 400, width: 1500, paddingTop: 20 }}>
+        <div style={{ textAlign: "center", width: 1000 }}>ORDERS</div>
+        <div style={{ height: 400, width: 1000, paddingTop: 20 }}>
           <DataGrid
             rows={rows}
             columns={columns}
